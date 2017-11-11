@@ -3,7 +3,7 @@
 
 > Alunos:
 
-* Renato Aguiar
+* Marcus Tulius
 * Matheus França
 * Rogério Amorim
 * Luiz Eduardo
